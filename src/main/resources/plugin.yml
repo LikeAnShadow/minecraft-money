@@ -1,0 +1,4 @@
+name: money
+version: '${project.version}'
+main: de.likeanshadow.minecraft.Money
+api-version: '1.20'
